@@ -1,3 +1,2 @@
-# python38_env
-python38
-push test
+# Sample
+python embeddable packageを使って、pythonコンソールを起動するサンプル
